@@ -1,6 +1,6 @@
 export const cartData = [
   {
-    name: "MacBook pro M2 chipset 256gb ssd 8gb ram space-gray color with apple 1 year warranty",
+    name: "MacBook pro M2 chipset 256gb ssd 8gb ram space-gray color with apple y",
     description: "test",
     price: "11111",
   },
@@ -10,7 +10,7 @@ export const cartData = [
     price: "11111",
   },
   {
-    name: "MacBook pro M2 chipset 256gb ssd 8gb ram space-gray color with apple 1 year warranty",
+    name: "MacBook pro M2 chipset 256gb ssd 8gb ram space-gray",
     description: "test",
     price: "11111",
   },

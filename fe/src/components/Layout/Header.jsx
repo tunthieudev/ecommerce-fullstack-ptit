@@ -165,10 +165,10 @@ const Header = ({ activeHeading }) => {
             {/* cart popup */}
             {openCart ? <Cart setOpenCart={setOpenCart} /> : null}
 
-            {/* wishlist popup
+            {/*wishlist popup */}
             {openWishlist ? (
               <Wishlist setOpenWishlist={setOpenWishlist} />
-            ) : null} */}
+            ) : null}
           </div>
         </div>
       </div>
