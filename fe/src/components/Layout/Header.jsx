@@ -157,7 +157,7 @@ const Header = ({ activeHeading }) => {
                 className="relative cursor-pointer mr-[15px]"
                 onClick={() => setOpenWishlist(true)}
               >
-                <Link to="/login">
+                <Link to="/profile">
                   <CgProfile size={30} color="rgb(255 255 255 / 83%)" />
                 </Link>
               </div>
